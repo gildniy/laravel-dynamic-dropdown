@@ -2,7 +2,7 @@
 
 A dynamic dropdown test example using Laravel 5.x framework (by reference to this [article](http://laravel.sillo.org/une-liste-de-choix-dynamique/) (in french): )
 
-Installation
+### Installation
 
 - `git clone https://github.com/gildniy/laravel-dynamic-ropdown.git projectname`
 - `cd projectname`
