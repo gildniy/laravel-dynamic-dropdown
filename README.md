@@ -4,7 +4,7 @@ A dynamic dropdown test example using Laravel 5.x framework (by reference to thi
 
 ### Installation
 
-- `git clone https://github.com/gildniy/laravel-dynamic-ropdown.git projectname`
+- `git clone https://github.com/gildniy/laravel-dynamic-dropdown.git projectname`
 - `cd projectname`
 - `composer install`
 - `php artisan key:generate`
