@@ -84,7 +84,6 @@
                 cityUpdate(country_id);
             });
 
-            // Requête Ajax pour les villes
             // Ajax Request for cities
             function cityUpdate(countryId) {
                 $.get('{{ url('cities') }}/' + countryId + "'", function (data) {
